@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Kevin Booth is a software engineer and geographer living in Central Texas.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Current Projects
+- [QGIS Stac Browser](https://github.com/kbgg/qgis-stac-browser)
+- Master's Thesis (Estimating Economic Activity from Satellite Imagery)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Past Projects
+- [FXNOW Android Application](https://play.google.com/store/apps/details?id=com.fxnetworks.fxnow&hl=en_US)
+- Dell Mobile Workspace Android Application
 
-
-[jekyll-organization]: https://github.com/jekyll
+### Talks Given
+- Global Economic Analysis on a Budget (Georodeo - May 2019)

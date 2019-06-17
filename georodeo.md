@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: georodeo
+layout: presentation
+title:  "Global Economic Analysis on a Budget"
+date: 2019-05-16
+collection: georodeo
+presentation: true
 ---

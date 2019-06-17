@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: databases
+layout: presentation
+title:  "Exploring Spatial Databases Project"
+date: 2019-05-13
+collection: databases
+presentation: true
 ---
